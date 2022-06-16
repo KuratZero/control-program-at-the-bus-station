@@ -1,4 +1,4 @@
-# control-program-at-the-bus-station
+# Сontrol program at the bus station.
 
 Bus monitoring program at the bus station on a doubly linked list with saving to a txt file.
 
