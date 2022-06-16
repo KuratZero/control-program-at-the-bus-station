@@ -1,0 +1,21 @@
+# control-program-at-the-bus-station
+
+Bus monitoring program at the bus station on a doubly linked list with saving to a txt file.
+
+Management via the menu in the console. 
+
+Programming language: C++.
+Language of execution: Russian.
+
+(Made for educational purposes, use is not safe in other projects)
+
+------------------------------------------------------------------
+
+Программа мониторинга автобусов на автобусной станции в виде двусвязного списка с сохранением в текстовый файл.
+
+Управление осуществляется через меню в консоли.
+
+Язык программирования: C++.
+Язык исполнения: русский.
+
+(Сделано в образовательных целях, использование небезопасно в других проектах)
