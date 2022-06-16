@@ -1,0 +1,21 @@
+Base of Buses
+4949
+Rezman Pavel Leonidovich
+88
+3654
+Reitman Leonid Artemovish
+45
+4884
+Andrei Naliv Stepanovich
+99
+2454
+Vladimir Lenin Ylianov
+17
+9999
+Ivan Ivanov Ivanich
+39
+4837
+Enlest Dmitrii Edyardovich
+458
+END PARK
+END ROUTE

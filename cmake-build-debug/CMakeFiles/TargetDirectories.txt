@@ -1,0 +1,3 @@
+/home/artemij/CLionProjects/nik_kurs1/cmake-build-debug/CMakeFiles/nik_kurs1.dir
+/home/artemij/CLionProjects/nik_kurs1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/artemij/CLionProjects/nik_kurs1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
